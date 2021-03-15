@@ -31,5 +31,3 @@ class Formatter {
         return wordArray.join(" ");
     }
 }
-
-console.log(Formatter.titleize("This is 153a really1 lo151ng stri*ng"));
